@@ -1,0 +1,2 @@
+mysql:
+  url: dev-http://localhost:3306/db100
