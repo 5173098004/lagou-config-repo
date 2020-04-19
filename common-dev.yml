@@ -6,3 +6,5 @@ spring:
     password:  awznvjqobwkkbjfi #客户端授权码，不是邮箱密码，这个在qq邮箱设置里面自动生成的
     properties.mail.smtp.port: 587
     from: 517309804@qq.com # 发送邮件的地址，和上面username一致
+abc:
+  config: 34566
